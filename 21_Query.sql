@@ -1,0 +1,3 @@
+SELECT AVG(PRO_PRICE) AS avg_price
+FROM products
+WHERE PRO_COM = 16;

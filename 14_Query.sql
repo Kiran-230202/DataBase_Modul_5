@@ -1,0 +1,3 @@
+SELECT SNAME, CITY
+FROM Salesperson
+WHERE CITY = 'London' AND COMM >0.12;
